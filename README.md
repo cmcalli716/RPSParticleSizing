@@ -1,4 +1,5 @@
 # Resistive Pulse Particle Sizing Algorithm
+
 ## Developed by Christopher McAllister, PhD student in the Zhang Lab (UW Chemistry) 
 
 * Simulates expected resistance values for an array of particle sizes and nanopore cone angles (based on algorithm used in Péter Terejánszky, István Makra, Péter Fürjes, and Róbert E. Gyurcsányi
